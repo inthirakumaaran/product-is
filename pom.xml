@@ -2017,7 +2017,7 @@
         <commons.codec.version>1.8</commons.codec.version>
         <XmlSchema.version>1.4.7-wso2v5</XmlSchema.version>
         <wsdl4j.version>1.6.2.wso2v2</wsdl4j.version>
-        <commons.pool.wso2.version>1.5.6.wso2v1</commons.pool.wso2.version>
+        <commons.pool.wso2.version>1.5.7.wso2v1</commons.pool.wso2.version>
         <liberty.maven.plugin.version>2.2</liberty.maven.plugin.version>
         <pax.logging.api.version>1.10.1</pax.logging.api.version>
 
